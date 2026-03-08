@@ -21,5 +21,7 @@ public class Main {
         }
 
         System.out.println(count);
+
+        sc.close();
     }
 }
